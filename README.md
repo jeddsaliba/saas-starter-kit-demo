@@ -82,4 +82,6 @@ A comprehensive module for configuring system preferences, email notifications, 
 </div>
 
 ## Support
+This project was generated with [Laravel](https://laravel.com/) and [Filament](https://filamentphp.com).
+
 For support, email jeddsaliba@gmail.com.
